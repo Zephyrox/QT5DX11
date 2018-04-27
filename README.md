@@ -1,4 +1,4 @@
-# GT5DX11
+# QT5DX11 - "GT5" is a typo :D
 DirectX11 rendering in QT5 window without losing other widgets
 
 The main purpuse of this test is to be able to use standard controls on top of DX rendering. 
